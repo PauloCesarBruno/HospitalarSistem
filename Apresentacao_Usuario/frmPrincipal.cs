@@ -18,7 +18,8 @@ namespace Apresentacao_Usuario
 {
     public partial class frmPrincipal : Form
     {
-      
+        Int64 codigo = 0;
+        String nome = null;
 
         // Travar O Form
         //=================================================== 
