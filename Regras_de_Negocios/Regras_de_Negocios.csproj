@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81EF42F7-A109-4106-8750-A3900649E7A3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Regras_de_Negocios</RootNamespace>
+    <AssemblyName>Regras_de_Negocios</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NegocioFornecedores.cs" />
+    <Compile Include="NegociosAcomodacao.cs" />
+    <Compile Include="NegociosAcomodacaoAnterior.cs" />
+    <Compile Include="NegociosAcomodacoes.cs" />
+    <Compile Include="NegociosAmarracaoInsumos.cs" />
+    <Compile Include="NegociosAmarracaoMedicamentos.cs" />
+    <Compile Include="NegociosAmarracaoMedicos.cs" />
+    <Compile Include="NegociosAmarracaoProcedimentos.cs" />
+    <Compile Include="NegociosAmarraExames.cs" />
+    <Compile Include="NegociosAmarraPaciente.cs" />
+    <Compile Include="NegociosAmarraProntuario.cs" />
+    <Compile Include="NegociosConsultaPaciente.cs" />
+    <Compile Include="NegociosConsultaPacientesAcompanhantes.cs" />
+    <Compile Include="NegociosCustos.cs" />
+    <Compile Include="NegociosEnfermagem.cs" />
+    <Compile Include="NegociosFarmacia.cs" />
+    <Compile Include="NegociosInsumos.cs" />
+    <Compile Include="NegociosLocalAcomodacao.cs" />
+    <Compile Include="NegociosMedicos.cs" />
+    <Compile Include="NegociosPacienteEntrada.cs" />
+    <Compile Include="NegociosProcedimento.cs" />
+    <Compile Include="NegociosProntuario.cs" />
+    <Compile Include="NegociosTecnicosEnfermagem.cs" />
+    <Compile Include="NegociosTriagem.cs" />
+    <Compile Include="NegociosUsuarios.cs" />
+    <Compile Include="NegociosValorExame.cs" />
+    <Compile Include="NegociosValorInsumo.cs" />
+    <Compile Include="NegociosValorMedicamento.cs" />
+    <Compile Include="Negocios_Outros_Funcionarios.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Conexao_SQLServer\Conexao_SQLServer.csproj">
+      <Project>{a9053abc-19b7-4b04-96d1-2090108fcb5c}</Project>
+      <Name>Conexao_SQLServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Objeto_de_Transferencia%28DTO%29\Objeto_de_Transferencia.csproj">
+      <Project>{ccedbbdd-02dc-44ca-ab7a-3246692fde5d}</Project>
+      <Name>Objeto_de_Transferencia</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
