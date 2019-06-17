@@ -59,7 +59,7 @@ namespace Apresentacao_Usuario
                 Conect conect = new Conect();
                 SqlConnection conn = new SqlConnection(conect.sql);
                 conn.Open();
-                SqlCommand cmd = new SqlCommand("Insert Into tblTriagem_Provisoria(Codigo, Nome, Data, Sexo, DiaHora, Pbaixa, Pmedia, Palta) Values ('" + textCodigo.Text + "', '" + textNome.Text + "','" + textDataNascimento.Text + "', '" + textSexo.Text + "', '" + DateTime.Now + "','" + checkBx.Checked + "', '" + checkMd.Checked + "', '" + checkAl.Checked + "')", conn);
+                SqlCommand cmd = new SqlCommand("Insert Into tblTriagem_Provisoria(Codigo, Nome, Data, Sexo, DiaHora, Pbaixa, Pmedia, Palta) Values ('" + textCodigo.Text + "', '" + textNome.Text + "','" + textDataNascimento.Text + "', '" + textSexo.Text + "', '" + textDiaHora.Text  + "','" + checkBx.Checked + "', '" + checkMd.Checked + "', '" + checkAl.Checked + "')", conn);
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
@@ -68,7 +68,7 @@ namespace Apresentacao_Usuario
             }
             catch (Exception ex)
             {
-                MessageBox.Show("" + ex);
+                MessageBox.Show("Erro, Detalhe: " + ex);
                 btnAtendido.Enabled = false;
             }
         }
