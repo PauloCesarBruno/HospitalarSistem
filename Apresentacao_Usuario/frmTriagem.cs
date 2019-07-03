@@ -55,11 +55,11 @@ namespace Apresentacao_Usuario
         private void Gravar()
         {
             try
-            {
+            {    
                 Conect conect = new Conect();
                 SqlConnection conn = new SqlConnection(conect.sql);
                 conn.Open();
-                SqlCommand cmd = new SqlCommand("Insert Into tblTriagem_Provisoria(Codigo, Nome, Data, Sexo, DiaHora, Pbaixa, Pmedia, Palta) Values ('" + textCodigo.Text + "', '" + textNome.Text + "','" + textDataNascimento.Text + "', '" + textSexo.Text + "', '" + textDiaHora.Text  + "','" + checkBx.Checked + "', '" + checkMd.Checked + "', '" + checkAl.Checked + "')", conn);
+                SqlCommand cmd = new SqlCommand("Insert Into tblTriagem_Provisoria(Codigo, Nome, Data, Sexo, DiaHora, Pbaixa, Pmedia, Palta) Values ('" + textCodigo.Text + "', '" + textNome.Text + "','" + textDataNascimento.Text + "', '" + textSexo.Text + "', '" + DateTime.Now.ToLongTimeString() + "','" + checkBx.Checked + "', '" + checkMd.Checked + "', '" + checkAl.Checked + "')", conn);
                 SqlDataAdapter da = new SqlDataAdapter(cmd);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
@@ -287,7 +287,7 @@ namespace Apresentacao_Usuario
             Carregar();
             FormCloseButtonDisabler // esta é a Classe Criada e Chamada no Load para desabilitar o "X".
                                     // 3º Passo Para desabilitar o "X".
-      .DisableCloseButton(this.Handle.ToInt32()); // Desabilitar o "X".           
+            .DisableCloseButton(this.Handle.ToInt32()); // Desabilitar o "X".           
             // Fim da dos 3 Passos para desabilitar o "X" do Form.
         }
 

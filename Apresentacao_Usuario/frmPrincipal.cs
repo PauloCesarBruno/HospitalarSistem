@@ -18,6 +18,12 @@ namespace Apresentacao_Usuario
 {
     public partial class frmPrincipal : Form
     {
+        //======================================================================
+        // Estas Variáveis Amarrao a data de expiração da autorização do sistema.
+        public DateTime data = DateTime.Now.Date;
+        public DateTime outraData = Convert.ToDateTime("08/07/2019");
+        //======================================================================
+
         Int64 codigo = 0;
         String nome = null;
 
@@ -100,18 +106,20 @@ namespace Apresentacao_Usuario
             panelAcessoRapido.Focus();
             #region Amarra Mensalidade
 
-            if (System.DateTime.Now.ToShortDateString() == "25/03/2019" || System.DateTime.Now.ToShortDateString() == "26/03/2019" ||
-            System.DateTime.Now.ToShortDateString() == "27/03/2019" || System.DateTime.Now.ToShortDateString() == "28/03/2019" ||
-            System.DateTime.Now.ToShortDateString() == "29/03/2019")
+            if (System.DateTime.Now.ToShortDateString() == "03/07/2019" || System.DateTime.Now.ToShortDateString() == "04/07/2019" ||
+            System.DateTime.Now.ToShortDateString() == "05/07/2019" || System.DateTime.Now.ToShortDateString() == "06/07/2019" ||
+            System.DateTime.Now.ToShortDateString() == "07/07/2019")
             {
-                MessageBox.Show("ATENÇÃO: A sua chave expira em 30/31/2019, entre em contato com o desenvolvedor para renovar a chave antes da data de expiração evitando o bloqueio do sistema !!!", "SISTEME HOSPITALAR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("ATENÇÃO: A sua chave expira em 08/07/2019, entre em contato com o desenvolvedor para renovar a chave antes da data de expiração evitando o bloqueio do sistema !!!", "SISTEME HOSPITALAR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 MessageBox.Show("OBS.IMPORTANTE: Não é aconselhavel 'MUDAR' a data no sistema windows com o objetivo de manter o Sistema Hospitalar funcionando sem ter que renovar a chave, pois isso causará uma 'PANE' no banco de dados, e no próprio programa, gerando problemas incalculáveis para a gestão do seu negócio; RENOVE AGORA SUA CHAVE, entre em contato com o desenvolvedor.", "SISTEME HOSPITALAR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else if (System.DateTime.Now.ToShortDateString() == "30/03/2019")
+           
+            else if (data > outraData || data == outraData)//verifica se é maior OU igual, Variaveis de Amarração Publicadas no Topo (Global).
             {
                 MessageBox.Show("A sua Chave Expirou, entre em contato com o desenvolvedor para definir nova Chave; O Sistema sera Encerrado !!!", "SISTEME HOSPITALAR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 Application.Exit();
             }
+            
             else
             {
                 //
