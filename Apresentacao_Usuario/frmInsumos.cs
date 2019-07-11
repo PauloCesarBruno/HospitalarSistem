@@ -267,6 +267,14 @@ namespace Apresentacao_Usuario
 
         private void btnNovo_Click(object sender, EventArgs e)
         {
+            DialogResult X = MessageBox.Show("Desculpe, para inserção de insumos no estoque é necessario apresentação de nota de entrada de insumo(s) no almoxarifado para constar no arquivo... - FOI APRESENTADA NOTA DE ENTRADA EM ESTOQUE (Sim) ou (Não) ???",
+             "Requisição Necessária", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2);
+            if (X != System.Windows.Forms.DialogResult.Yes)
+            {
+                MessageBox.Show("Desculpe, é necessário nota de entrada de insumos para constar no arquivo !!!", "Requisiçao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                this.Close();
+                return;
+            }
             Limpa_Campos();
             txtBuscaNome.Focus();
             Destrava_Campos();
@@ -327,6 +335,14 @@ namespace Apresentacao_Usuario
 
         private void btnAlterar_Click(object sender, EventArgs e)
         {
+            DialogResult X = MessageBox.Show("Desculpe, para Manipular estoque é necessario apresentação de requisição de solicitação de retirada assinada pelo responsável do pedido ou nota de entrada de insumo no estoque para constar no arquivo... - FOI APRESENTADA REQUISIÇÃO DE SAIDA OU NOTA DE ENTRADA (Sim) ou (Não) ???",
+       "Requisição Necessária", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2);
+            if (X != System.Windows.Forms.DialogResult.Yes)
+            {
+                MessageBox.Show("Desculpe, é necessário requisição ou nota de entrada para constar no arquivo !!!", "Requisiçao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                this.Close();
+                return;
+            }
             if (txtCodigo.ReadOnly == true)
             {
                 MessageBox.Show("É necessario antes de alterar escolher um registro pelas Caixas de Busca", "SISTEMA HOSPITALAR", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -346,6 +362,14 @@ namespace Apresentacao_Usuario
 
         private void btnExcluir_Click(object sender, EventArgs e)
         {
+            DialogResult X = MessageBox.Show("Desculpe, para excluir insumos do estoque é necessario apresentação de requisição de solicitação de exclusão de insumo(s) do almoxarifado assinada pelo responsável do pedido de exclusão para constar no arquivo... - FOI APRESENTADA REQUISIÇÃO DE ECLUSÃO (Sim) ou (Não) ???",
+       "Requisição Necessária", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2);
+            if (X != System.Windows.Forms.DialogResult.Yes)
+            {
+                MessageBox.Show("Desculpe, é necessário Requisição de exclusão para constar no arquivo !!!", "Requisiçao", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                this.Close();
+                return;
+            }
             if (txtCodigo.ReadOnly == true)
             {
                 MessageBox.Show("É necessario antes de Excluir escolher um registro pelas Caixas de Busca", "SISTEMA HOSPITALAR", MessageBoxButtons.OK, MessageBoxIcon.Information);
