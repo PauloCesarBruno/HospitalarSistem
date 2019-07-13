@@ -326,7 +326,7 @@ namespace Apresentacao_Usuario
             MessageBox.Show("Paciente Encaminhado. DESIGNAR", "SISTEMA HOSPITALAR", MessageBoxButtons.OK, MessageBoxIcon.Information);
             txtBuscaNome.Text = String.Empty;
             txtBuscaId.Text = String.Empty;
-            txtBuscaNome.Focus();
+            btnAtualizar.Focus();
             btnAtendido.Enabled = false;
             btnImprimir.Enabled = false;
             lblAnotações.Visible = false;

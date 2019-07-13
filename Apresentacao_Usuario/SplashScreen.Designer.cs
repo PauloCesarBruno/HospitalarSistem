@@ -57,7 +57,7 @@
             this.lblVerssao.Name = "lblVerssao";
             this.lblVerssao.Size = new System.Drawing.Size(85, 13);
             this.lblVerssao.TabIndex = 3;
-            this.lblVerssao.Text = "Verssão 1.0.5";
+            this.lblVerssao.Text = "Verssão 1.1.0";
             // 
             // lblTitulo
             // 
