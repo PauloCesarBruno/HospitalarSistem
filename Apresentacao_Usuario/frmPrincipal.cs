@@ -16,7 +16,7 @@ using System.Runtime.InteropServices; // 1ª Passo para desabilitar o "X" do Fec
 
 namespace Apresentacao_Usuario
 {
-    public partial class frmPrincipal : 
+    public partial class frmPrincipal : Form
     {
         //======================================================================
         // Estas Variáveis Amarrao a data de expiração da autorização do sistema.
