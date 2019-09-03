@@ -255,7 +255,7 @@
             // toolStripSeparator6
             // 
             this.toolStripSeparator6.Name = "toolStripSeparator6";
-            this.toolStripSeparator6.Size = new System.Drawing.Size(282, 6);
+            this.toolStripSeparator6.Size = new System.Drawing.Size(278, 6);
             // 
             // cadastrosAdministrativosToolStripMenuItem
             // 
@@ -269,7 +269,7 @@
             this.insumosToolStripMenuItem});
             this.cadastrosAdministrativosToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("cadastrosAdministrativosToolStripMenuItem.Image")));
             this.cadastrosAdministrativosToolStripMenuItem.Name = "cadastrosAdministrativosToolStripMenuItem";
-            this.cadastrosAdministrativosToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
+            this.cadastrosAdministrativosToolStripMenuItem.Size = new System.Drawing.Size(281, 22);
             this.cadastrosAdministrativosToolStripMenuItem.Text = "&Cadastros e Consultas Administrativos";
             // 
             // usuáriosToolStripMenuItem
@@ -278,7 +278,7 @@
             this.usuáriosToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.usuáriosToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("usuáriosToolStripMenuItem.Image")));
             this.usuáriosToolStripMenuItem.Name = "usuáriosToolStripMenuItem";
-            this.usuáriosToolStripMenuItem.Size = new System.Drawing.Size(225, 26);
+            this.usuáriosToolStripMenuItem.Size = new System.Drawing.Size(221, 22);
             this.usuáriosToolStripMenuItem.Text = "&Usuários";
             this.usuáriosToolStripMenuItem.Click += new System.EventHandler(this.usuáriosToolStripMenuItem_Click);
             // 
@@ -288,7 +288,7 @@
             this.fucionáriosAdministrativosToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.fucionáriosAdministrativosToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("fucionáriosAdministrativosToolStripMenuItem.Image")));
             this.fucionáriosAdministrativosToolStripMenuItem.Name = "fucionáriosAdministrativosToolStripMenuItem";
-            this.fucionáriosAdministrativosToolStripMenuItem.Size = new System.Drawing.Size(225, 26);
+            this.fucionáriosAdministrativosToolStripMenuItem.Size = new System.Drawing.Size(221, 22);
             this.fucionáriosAdministrativosToolStripMenuItem.Text = "&Fucionários Administrativos";
             this.fucionáriosAdministrativosToolStripMenuItem.Click += new System.EventHandler(this.fucionáriosAdministrativosToolStripMenuItem_Click);
             // 
@@ -298,7 +298,7 @@
             this.fornecedoresToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.fornecedoresToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("fornecedoresToolStripMenuItem.Image")));
             this.fornecedoresToolStripMenuItem.Name = "fornecedoresToolStripMenuItem";
-            this.fornecedoresToolStripMenuItem.Size = new System.Drawing.Size(225, 26);
+            this.fornecedoresToolStripMenuItem.Size = new System.Drawing.Size(221, 22);
             this.fornecedoresToolStripMenuItem.Text = "F&ornecedores";
             this.fornecedoresToolStripMenuItem.Click += new System.EventHandler(this.fornecedoresToolStripMenuItem_Click);
             // 
@@ -308,7 +308,7 @@
             this.farmaciaToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.farmaciaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("farmaciaToolStripMenuItem.Image")));
             this.farmaciaToolStripMenuItem.Name = "farmaciaToolStripMenuItem";
-            this.farmaciaToolStripMenuItem.Size = new System.Drawing.Size(225, 26);
+            this.farmaciaToolStripMenuItem.Size = new System.Drawing.Size(221, 22);
             this.farmaciaToolStripMenuItem.Text = "Farm&acia Estoque";
             this.farmaciaToolStripMenuItem.Click += new System.EventHandler(this.farmaciaToolStripMenuItem_Click);
             // 
@@ -318,14 +318,14 @@
             this.insumosToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.insumosToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("insumosToolStripMenuItem.Image")));
             this.insumosToolStripMenuItem.Name = "insumosToolStripMenuItem";
-            this.insumosToolStripMenuItem.Size = new System.Drawing.Size(225, 26);
+            this.insumosToolStripMenuItem.Size = new System.Drawing.Size(221, 22);
             this.insumosToolStripMenuItem.Text = "&Insumos Estoque";
             this.insumosToolStripMenuItem.Click += new System.EventHandler(this.insumosToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(282, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(278, 6);
             // 
             // cadastrosRotinaHospitalarToolStripMenuItem
             // 
@@ -346,7 +346,7 @@
             this.toolStripMenuItem11});
             this.cadastrosRotinaHospitalarToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("cadastrosRotinaHospitalarToolStripMenuItem.Image")));
             this.cadastrosRotinaHospitalarToolStripMenuItem.Name = "cadastrosRotinaHospitalarToolStripMenuItem";
-            this.cadastrosRotinaHospitalarToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
+            this.cadastrosRotinaHospitalarToolStripMenuItem.Size = new System.Drawing.Size(281, 22);
             this.cadastrosRotinaHospitalarToolStripMenuItem.Text = "Cadastros e  &Rotina Hospitalar";
             // 
             // paciênteToolStripMenuItem
@@ -466,7 +466,7 @@
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(282, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(278, 6);
             // 
             // aberturaDoDiaToolStripMenuItem
             // 
@@ -474,14 +474,14 @@
             this.aberturaDoDiaToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.aberturaDoDiaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("aberturaDoDiaToolStripMenuItem.Image")));
             this.aberturaDoDiaToolStripMenuItem.Name = "aberturaDoDiaToolStripMenuItem";
-            this.aberturaDoDiaToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
+            this.aberturaDoDiaToolStripMenuItem.Size = new System.Drawing.Size(281, 22);
             this.aberturaDoDiaToolStripMenuItem.Text = "&Abertura do Plantão (Escala) - F3";
             this.aberturaDoDiaToolStripMenuItem.Click += new System.EventHandler(this.aberturaDoDiaToolStripMenuItem_Click);
             // 
             // toolStripSeparator7
             // 
             this.toolStripSeparator7.Name = "toolStripSeparator7";
-            this.toolStripSeparator7.Size = new System.Drawing.Size(282, 6);
+            this.toolStripSeparator7.Size = new System.Drawing.Size(278, 6);
             // 
             // prescriçãoMédicaToolStripMenuItem
             // 
@@ -491,14 +491,14 @@
             this.prescriçãoMédicaToolStripMenuItem.ForeColor = System.Drawing.Color.Blue;
             this.prescriçãoMédicaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("prescriçãoMédicaToolStripMenuItem.Image")));
             this.prescriçãoMédicaToolStripMenuItem.Name = "prescriçãoMédicaToolStripMenuItem";
-            this.prescriçãoMédicaToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
+            this.prescriçãoMédicaToolStripMenuItem.Size = new System.Drawing.Size(281, 22);
             this.prescriçãoMédicaToolStripMenuItem.Text = "&Prescrição Médica- F4";
             this.prescriçãoMédicaToolStripMenuItem.Click += new System.EventHandler(this.prescriçãoMédicaToolStripMenuItem_Click);
             // 
             // toolStripSeparator8
             // 
             this.toolStripSeparator8.Name = "toolStripSeparator8";
-            this.toolStripSeparator8.Size = new System.Drawing.Size(282, 6);
+            this.toolStripSeparator8.Size = new System.Drawing.Size(278, 6);
             // 
             // prontuárioEvoluçãoDePaciênteToolStripMenuItem
             // 
@@ -508,7 +508,7 @@
             this.prontuárioEvoluçãoDePaciênteToolStripMenuItem.ForeColor = System.Drawing.Color.Teal;
             this.prontuárioEvoluçãoDePaciênteToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("prontuárioEvoluçãoDePaciênteToolStripMenuItem.Image")));
             this.prontuárioEvoluçãoDePaciênteToolStripMenuItem.Name = "prontuárioEvoluçãoDePaciênteToolStripMenuItem";
-            this.prontuárioEvoluçãoDePaciênteToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
+            this.prontuárioEvoluçãoDePaciênteToolStripMenuItem.Size = new System.Drawing.Size(281, 22);
             this.prontuárioEvoluçãoDePaciênteToolStripMenuItem.Text = "Prontuário (&Evolução de Paciênte - F5";
             this.prontuárioEvoluçãoDePaciênteToolStripMenuItem.Click += new System.EventHandler(this.prontuárioEvoluçãoDePaciênteToolStripMenuItem_Click);
             // 
