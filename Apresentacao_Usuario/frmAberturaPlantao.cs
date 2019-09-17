@@ -280,7 +280,7 @@ namespace Apresentacao_Usuario
             //===============================================================================================================
             // -- ATENÇÃO: MUDAR CONFORME A NECESSIDADE -- Geralmente, Usa-se o Diretório em C:\Documentos\Pasta...
 
-            saveFileDialog1.InitialDirectory = @"C:\Users\p_bru\Documents\Sistema Hospitalar\Abertura de Plantao Escala\";
+            saveFileDialog1.InitialDirectory = @"C:\Users\paulo\Documents\Sistema Hospitalar\Abertura de Plantao Escala\";
             //
             //
             //===============================================================================================================

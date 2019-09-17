@@ -138,7 +138,7 @@ namespace Apresentacao_Usuario
 
                 // Mandando para diretório Escolhido:
                 //===================================
-                String nomeArquivoPDF = @"C:\Users\p_bru\Documents\Sistema Hospitalar\Prescrições Médicas\" + "Prescrição Médica " + cmbPaciente.SelectedItem + DateTime.Now.ToString(" dd_MM_yyyy-HH_mm_ss") + ".pdf";
+                String nomeArquivoPDF = @"C:\Users\paulo\Documents\Sistema Hospitalar\Prescrições Médicas\" + "Prescrição Médica " + cmbPaciente.SelectedItem + DateTime.Now.ToString(" dd_MM_yyyy-HH_mm_ss") + ".pdf";
 
                 fileStreamPDF = new FileStream(nomeArquivoPDF, FileMode.Create);
                 fileStreamPDF.Write(bytePDF, 0, bytePDF.Length);

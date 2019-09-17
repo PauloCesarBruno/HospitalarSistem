@@ -436,7 +436,7 @@ namespace Apresentacao_Usuario
             listReporterParameter.Add(new ReportParameter("Nome", textNome.Text));
             listReporterParameter.Add(new ReportParameter("Nascimento", textDataNascimento.Text));
             listReporterParameter.Add(new ReportParameter("Sexo", textSexo.Text));
-            listReporterParameter.Add(new ReportParameter("Hora", textDiaHora.Text));
+            listReporterParameter.Add(new ReportParameter("Hora", DateTime.Now.ToString ()));
             listReporterParameter.Add(new ReportParameter("Anotacoes", textAnotacoes.Text));
 
             reportViewer.LocalReport.SetParameters(listReporterParameter);
@@ -463,7 +463,7 @@ namespace Apresentacao_Usuario
 
                 // Mandando para diretório Escolhido:
                 //===================================
-                String nomeArquivoPDF = @"C:\Users\p_bru\Documents\Sistema Hospitalar\Ficha Cadastral\" + "Ficha Cadastral " + textNome.Text + DateTime.Now.ToString(" dd_MM_yyyy-HH_mm_ss") + ".pdf";
+                String nomeArquivoPDF = @"C:\Users\paulo\Documents\Sistema Hospitalar\Ficha Cadastral\" + "Ficha Cadastral " + textNome.Text + DateTime.Now.ToString(" dd_MM_yyyy-HH_mm_ss") + ".pdf";
 
                 fileStreamPDF = new FileStream(nomeArquivoPDF, FileMode.Create);
                 fileStreamPDF.Write(bytePDF, 0, bytePDF.Length);
