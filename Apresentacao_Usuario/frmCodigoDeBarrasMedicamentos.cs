@@ -114,7 +114,7 @@ namespace Apresentacao_Usuario
             Image imgFinal = (Image)panelResultado.BackgroundImage.Clone();
 
             SaveFileDialog CaixaDeDialogoGuardar = new SaveFileDialog();
-            CaixaDeDialogoGuardar.InitialDirectory = @"C:\Users\paulo\Documents\Sistema Hospitalar\Medicamentos Codigo de Barras\";
+            CaixaDeDialogoGuardar.InitialDirectory = @"C:\Users\pf\Documents\Sistema Hospitalar\Medicamentos Codigo de Barras\";
             CaixaDeDialogoGuardar.AddExtension = true;
             CaixaDeDialogoGuardar.Filter = "Image PNG (*.png)|*.png";
             CaixaDeDialogoGuardar.ShowDialog();
