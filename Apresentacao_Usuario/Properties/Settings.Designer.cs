@@ -26,7 +26,7 @@ namespace Apresentacao_Usuario.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-HP0T53Q;Initial Catalog=Hospital;User ID=sa;Password=Paradoxo" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-FK5T22V;Initial Catalog=Hospital;User ID=sa;Password=Paradoxo" +
             "22")]
         public string String {
             get {

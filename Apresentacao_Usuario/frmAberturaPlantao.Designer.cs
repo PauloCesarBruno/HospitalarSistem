@@ -182,7 +182,7 @@
             this.btnLimparEscala.Name = "btnLimparEscala";
             this.btnLimparEscala.Size = new System.Drawing.Size(99, 68);
             this.btnLimparEscala.TabIndex = 32;
-            this.btnLimparEscala.Text = "&Limpara Escala";
+            this.btnLimparEscala.Text = "&Limpar Escala";
             this.btnLimparEscala.UseVisualStyleBackColor = true;
             this.btnLimparEscala.Click += new System.EventHandler(this.btnLimparEscala_Click);
             // 
@@ -240,6 +240,7 @@
             // lisTecnicos_Pacientes
             // 
             this.lisTecnicos_Pacientes.ForeColor = System.Drawing.Color.Red;
+            this.lisTecnicos_Pacientes.HideSelection = false;
             this.lisTecnicos_Pacientes.Location = new System.Drawing.Point(287, 321);
             this.lisTecnicos_Pacientes.Name = "lisTecnicos_Pacientes";
             this.lisTecnicos_Pacientes.Size = new System.Drawing.Size(243, 165);
@@ -273,6 +274,7 @@
             // 
             // listEnfermeiro
             // 
+            this.listEnfermeiro.HideSelection = false;
             this.listEnfermeiro.Location = new System.Drawing.Point(287, 187);
             this.listEnfermeiro.Name = "listEnfermeiro";
             this.listEnfermeiro.Size = new System.Drawing.Size(243, 79);
@@ -317,6 +319,7 @@
             // 
             // listMedicos
             // 
+            this.listMedicos.HideSelection = false;
             this.listMedicos.Location = new System.Drawing.Point(287, 75);
             this.listMedicos.Name = "listMedicos";
             this.listMedicos.Size = new System.Drawing.Size(243, 56);
