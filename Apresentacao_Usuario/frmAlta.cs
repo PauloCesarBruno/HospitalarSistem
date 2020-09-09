@@ -13,7 +13,7 @@ using Objeto_de_Transferencia;
 using Conexao_SQLServer;
 using System.Data.SqlClient;
 using System.Runtime.InteropServices; // 1ª Passo para desabilitar o "X" do Fechar Formulario.
-
+//====================
 namespace Apresentacao_Usuario
 {
     public partial class frmAlta : Form
