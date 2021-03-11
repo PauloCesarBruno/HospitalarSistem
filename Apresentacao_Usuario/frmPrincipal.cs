@@ -15,6 +15,7 @@ using Regras_de_Negocios;
 using System.Runtime.InteropServices; 
 // ======================================================
 // 1ª Passo para desabilitar o "X" do Fechar Formulario.
+// ======================================================
 
 namespace Apresentacao_Usuario
 {
