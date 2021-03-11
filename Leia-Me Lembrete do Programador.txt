@@ -1,0 +1,28 @@
+Atenção: todos os formulários estão sendo direcionados para a Pasta "Meus Documentos"/"Sistema Hospitalar".
+
+Na Máquina do Cliente, mudar os diretorios conforme abaixo, são eles:
+
+1 - "Abertura de Plantão Escala"
+2 - "Mensagem no Botão Imprimir do Form Triagem para a Pasta (Ficha Cadastral).
+3 - "InsumosCodigo de Barras"
+4 - "Medicamentos Codigo de Barras"
+5 - "Pacientes Codigo de Barras"
+6 - "Prescrições Médicas"
+7 - "Prontuário Evolução"
+
+Obs.: "Acomodação Atual" esta Indo para a pasta (TEMP).
+
+Que estão em seus respectivos Form´s.
+
+8 - MUDAR A STRING DE CONEXÃO.
+9 - Ao Gerar o Script do Banco de Dados, cadastrar Manualmente a 1ª Senha de Administrador.
+10 - Colocar Ip Fixo na Maquina do Cliente IPV4.
+11 - Lembrar ao Usuário que a mudança de acomodação deve ser sempre registrada antes do Meio Dia.
+
+ATENÇÃO: NO FORM PRINCIPAL EXISTE UMA ROTINA DE AMARRAÇÃO DE BLOQUEIO DE PROGRAMA
+POR FALTA DE PAGAMENTO.... (NÃO ESQUECER DE DEFINIR ANTES DE INSTALAR NA MAQUINA DO CLIENTE).
+
+NÃO ESQUECER DE COLOCAR NOS RELATÓRIOS (CRIAR), NO CABEÇALHO, O NOME, ENDEREÇO, TELEFONE ETC.. DO HOSPITAL.
+
+Paulo Bruno
+Desenvolvedor do Sistema.

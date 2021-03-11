@@ -1,0 +1,52 @@
+
+Hospital  ( -- >> Nome do Hospital
+Endereçco ( -- >> Endereço do Hospital
+Telefones ( -- >> 0000-0000 / 0000-0000
+=======================================================
+
+
+Escala e Distribuição do dia: 06/05/2018  Elaborada por: Paulo Bruno
+================================================================================
+
+
+Médicos: 
+=========
+
+Paulo de Tarso Gomes
+Margarete Menezes Cortes
+Juçara dias Mattos
+Josué da Silva Pinto Filho 
+
+
+Enfermeiros: 
+=============
+
+Pedro Mello Maninho
+João Filho Junior
+Ana Paula da Silva Torres
+Agda da Silva Pinto
+
+
+Técnico(s) e Paciênte(s) - Distribuição do dia: 
+===============================================
+
+Técnico(a):
+Agnaldo Damasceno Pinto
+Paciente:
+Juliana Paula Bueno
+Técnico(a):
+Debora Dias Cardoso
+Paciente:
+Margarete Silva dos Santos
+Técnico(a):
+Denize de Souza Fraga e Silva
+Paciente:
+Rinaldo Pacheco da Silva
+Técnico(a):
+Mauricio de Souza Junior
+Paciente:
+Juliana Paula Bueno
+Técnico(a):
+Pedro de Mattos Damasceno
+Paciente:
+Margarete Silva dos Santos

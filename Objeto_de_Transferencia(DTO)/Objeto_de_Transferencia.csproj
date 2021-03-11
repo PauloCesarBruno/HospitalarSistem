@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CCEDBBDD-02DC-44CA-AB7A-3246692FDE5D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Objeto_de_Transferencia</RootNamespace>
+    <AssemblyName>Objeto_de_Transferencia</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acomodacao.cs" />
+    <Compile Include="AcomodacaoAnterior.cs" />
+    <Compile Include="AcomodacaoAnteriorColecao.cs" />
+    <Compile Include="AcomodacaoColecao.cs" />
+    <Compile Include="Acomodacoes.cs" />
+    <Compile Include="AcomodacoesColecao.cs" />
+    <Compile Include="AmarraExclusaoExamesColecao.cs" />
+    <Compile Include="AmarraExclusaoInsumos.cs" />
+    <Compile Include="AmarraExclusaoInsumosColecao.cs" />
+    <Compile Include="AmarraExclusaoMedicamentos.cs" />
+    <Compile Include="AmarraExclusaoMedicamentosColecao.cs" />
+    <Compile Include="AmarraExclusaoMedico.cs" />
+    <Compile Include="AmarraExclusaoMedicoColecao.cs" />
+    <Compile Include="AmarraExclusaoPaciente.cs" />
+    <Compile Include="AmarraExclusaoPacienteColecao.cs" />
+    <Compile Include="AmarraExclusaoProcedimento.cs" />
+    <Compile Include="AmarraExclusaoProcedimentoColecao.cs" />
+    <Compile Include="AmarraExlusaoExames.cs" />
+    <Compile Include="AmarraProntuario.cs" />
+    <Compile Include="AmarraProntuarioColecao.cs" />
+    <Compile Include="ConsultaPacienteAcompanhante.cs" />
+    <Compile Include="ConsultaPacienteAcompanhanteColecao.cs" />
+    <Compile Include="ConsultaPacienteColecao.cs" />
+    <Compile Include="ConsultaPacientes.cs" />
+    <Compile Include="Custos.cs" />
+    <Compile Include="CustosColecao.cs" />
+    <Compile Include="Enfermagem.cs" />
+    <Compile Include="EnfermagemColecao.cs" />
+    <Compile Include="Exames.cs" />
+    <Compile Include="ExamesColecao.cs" />
+    <Compile Include="Farmacia.cs" />
+    <Compile Include="Farmacia_Colecao.cs" />
+    <Compile Include="Fornecedores.cs" />
+    <Compile Include="FornecedoresColecao.cs" />
+    <Compile Include="InsumoCusto.cs" />
+    <Compile Include="InsumoCustoColecao.cs" />
+    <Compile Include="Insumos.cs" />
+    <Compile Include="Insumo_Colecao.cs" />
+    <Compile Include="LocalAcomodacao.cs" />
+    <Compile Include="LocalAcomodacaoColecao.cs" />
+    <Compile Include="Medicamentos.cs" />
+    <Compile Include="MedicamentosColecao.cs" />
+    <Compile Include="Medicos.cs" />
+    <Compile Include="MedicosColecao.cs" />
+    <Compile Include="Outros_Funcionarios.cs" />
+    <Compile Include="Outros_FuncionariosColecao.cs" />
+    <Compile Include="PacienteEntrada.cs" />
+    <Compile Include="PacienteEntradaColecao.cs" />
+    <Compile Include="Procedimento.cs" />
+    <Compile Include="ProcedimentoColecao.cs" />
+    <Compile Include="Prontuario.cs" />
+    <Compile Include="ProntuarioColecao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TecnicoEnfermagem.cs" />
+    <Compile Include="TecnicoEnfermagemColecao.cs" />
+    <Compile Include="Triagem Colecao.cs" />
+    <Compile Include="Triagem.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="UsuarioColecao.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Conexao_SQLServer\Conexao_SQLServer.csproj">
+      <Project>{a9053abc-19b7-4b04-96d1-2090108fcb5c}</Project>
+      <Name>Conexao_SQLServer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
