@@ -1,0 +1,64 @@
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\Backup\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+F:\PROGRAMAÇÃO\Programas Visual Studio\Backup\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\Backup\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\Backup\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojResolveAssemblyReference.cache
+F:\PROGRAMAÇÃO\Programas Visual Studio\Backup\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\Backup\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojResolveAssemblyReference.cache
+C:\Programas E Sql Server\Meus Programas\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+C:\Programas E Sql Server\Meus Programas\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+C:\Programas E Sql Server\Meus Programas\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+C:\Programas E Sql Server\Meus Programas\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+C:\Programas E Sql Server\Meus Programas\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+D:\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+D:\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+D:\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+D:\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojResolveAssemblyReference.cache
+D:\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+D:\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojResolveAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojAssemblyReference.cache
+C:\Paulo Bruno\Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+D:\Conteudo do meu C\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+D:\Conteudo do meu C\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+D:\Conteudo do meu C\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+D:\Conteudo do meu C\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojAssemblyReference.cache
+D:\Conteudo do meu C\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+D:\Conteudo do meu C\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+D:\Conteudo do meu C\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Debug\Conexao_SQLServer.csprojAssemblyReference.cache

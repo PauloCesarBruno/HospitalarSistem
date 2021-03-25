@@ -1,0 +1,903 @@
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Apresentacao_Usuario.exe.config
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Apresentacao_Usuario.exe
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Apresentacao_Usuario.pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia(DTO).dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia(DTO).pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csprojResolveAssemblyReference.cache
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrincipal.resources
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmSobre.resources
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuario.resources
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.Properties.Resources.resources
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.SplashScreen.resources
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.GenerateResource.Cache
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.exe
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.pdb
+F:\HospitalarSistem\Apresentacao_Usuario\bin\Release\Apresentacao_Usuario.exe.config
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.exe
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.pdb
+F:\HospitalarSistem\Apresentacao_Usuario\bin\Release\Apresentacao_Usuario.exe
+F:\HospitalarSistem\Apresentacao_Usuario\bin\Release\Apresentacao_Usuario.pdb
+F:\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll
+F:\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia(DTO).dll
+F:\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.pdb
+F:\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia(DTO).pdb
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csprojResolveAssemblyReference.cache
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrincipal.resources
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmSobre.resources
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuario.resources
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.Properties.Resources.resources
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.SplashScreen.resources
+F:\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.GenerateResource.Cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\BarcodeLib.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.Policy.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.TranslationServices.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.SharePoint.Tools.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ProjectServer.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Publishing.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\SharePointPnP.IdentityModel.Extensions.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.xml
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAberturaPlantao.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnterior.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnteriorRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoFarmaciaRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoInsumoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlta.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroExames.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroLocalDeAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroMedicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroProcedimento.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCalendario.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarras.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasMedicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Medicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaCustos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaDesignacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaEnfermeiros.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaLocalAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaMedicos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaTecnico.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Exames.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Insumos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Procedimento.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustosUsoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmDesignacaoPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiro.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiroRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmExamesRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFarmacia.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedores.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedoresRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionariosAdmRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionarios_Administrativos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumosRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmLocalAcomodacaoFormulario.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipularPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicamentoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicos.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteAcompanhante.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteCadastroRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteEntrada.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteFiliacaoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacientesAcomodacoes.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrescricao_Medica.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrincipal.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmProntuario.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmSobre.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicodeEnfermagemRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicoEnfermagem.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTratamentoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTriagem.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuario.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuarioRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao_Anterior.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerificaAdm.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.Properties.Resources.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipulaUsuario.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.SplashScreen.resources
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.GenerateResource.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.exe
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe.config
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CopyComplete
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe.config
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\BarcodeLib.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.Policy.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.TranslationServices.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.SharePoint.Tools.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ProjectServer.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Publishing.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\SharePointPnP.IdentityModel.Extensions.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.xml
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAberturaPlantao.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnterior.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnteriorRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoFarmaciaRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoInsumoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlta.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroExames.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroLocalDeAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroMedicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroProcedimento.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCalendario.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarras.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasMedicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Medicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaCustos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaDesignacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaEnfermeiros.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaLocalAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaMedicos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaTecnico.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Exames.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Insumos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Procedimento.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustosUsoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmDesignacaoPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiro.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiroRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmExamesRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFarmacia.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedores.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedoresRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionariosAdmRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionarios_Administrativos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumosRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmLocalAcomodacaoFormulario.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipularPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicamentoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicos.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteAcompanhante.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteCadastroRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteEntrada.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteFiliacaoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacientesAcomodacoes.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrescricao_Medica.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrincipal.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmProntuario.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmSobre.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicodeEnfermagemRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicoEnfermagem.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTratamentoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTriagem.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuario.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuarioRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao_Anterior.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerificaAdm.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.Properties.Resources.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipulaUsuario.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.SplashScreen.resources
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.GenerateResource.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\RdlCompile.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\RdlCompile.compiled
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CopyComplete
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.exe
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.pdb
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe.config
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.pdb
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\BarcodeLib.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.Policy.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.TranslationServices.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.SharePoint.Tools.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ProjectServer.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Publishing.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\SharePointPnP.IdentityModel.Extensions.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.xml
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAberturaPlantao.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnterior.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnteriorRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoFarmaciaRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoInsumoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlta.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroExames.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroLocalDeAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroMedicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroProcedimento.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCalendario.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarras.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasMedicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Medicamentos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaCustos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaDesignacao.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaEnfermeiros.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaLocalAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaMedicos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaTecnico.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Exames.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Insumos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Procedimento.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustosUsoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmDesignacaoPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiro.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiroRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmExamesRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFarmacia.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedores.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedoresRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionariosAdmRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionarios_Administrativos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumosRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmLocalAcomodacaoFormulario.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipularPaciente.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicamentoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicos.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteAcompanhante.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteCadastroRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteEntrada.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteFiliacaoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacientesAcomodacoes.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrescricao_Medica.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrincipal.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmProntuario.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmSobre.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicodeEnfermagemRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicoEnfermagem.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTratamentoRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTriagem.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuario.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuarioRelatorio.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao_Anterior.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerificaAdm.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.Properties.Resources.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipulaUsuario.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.SplashScreen.resources
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.GenerateResource.cache
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\RdlCompile.cache
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\RdlCompile.compiled
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CopyComplete
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.exe
+C:\Paulo Bruno\Programas Visual Studio\Geral\C Sharp\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe.config
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\BarcodeLib.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.Core.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.Policy.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.TranslationServices.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.SharePoint.Tools.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ProjectServer.Client.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Publishing.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\SharePointPnP.IdentityModel.Extensions.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.xml
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\System.Spatial.resources.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csprojAssemblyReference.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAberturaPlantao.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacao.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnterior.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnteriorRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoFarmaciaRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoInsumoRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlta.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroExames.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroInsumos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroLocalDeAcomodacao.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroMedicamentos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroProcedimento.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCalendario.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarras.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasInsumos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasMedicamentos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Medicamentos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaAcomodacao.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaCustos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaDesignacao.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaEnfermeiros.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaLocalAcomodacao.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaMedicos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaPaciente.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaTecnico.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Exames.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Insumos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Procedimento.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustosUsoRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmDesignacaoPaciente.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiro.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiroRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmExamesRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFarmacia.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedores.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedoresRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionariosAdmRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionarios_Administrativos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumosRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmLocalAcomodacaoFormulario.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipularPaciente.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicamentoRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicoRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicos.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteAcompanhante.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteCadastroRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteEntrada.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteFiliacaoRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacientesAcomodacoes.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrescricao_Medica.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrincipal.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmProntuario.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmSobre.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicodeEnfermagemRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicoEnfermagem.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTratamentoRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTriagem.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuario.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuarioRelatorio.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao_Anterior.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerificaAdm.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.Properties.Resources.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipulaUsuario.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.SplashScreen.resources
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.GenerateResource.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CopyComplete
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.exe
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\RdlCompile.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\RdlCompile.compiled
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe.config
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.exe
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Sistema Hospitalar.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\BarcodeLib.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.Core.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Graph.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.Policy.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.Client.TranslationServices.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Office.SharePoint.Tools.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Online.SharePoint.Client.Tenant.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ProjectServer.Client.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.DocumentManagement.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Publishing.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Runtime.Windows.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.Applications.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Search.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.Taxonomy.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.SharePoint.Client.WorkflowServices.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\SharePointPnP.IdentityModel.Extensions.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Conexao_SQLServer.dll.config
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Objeto_de_Transferencia.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Regras_de_Negocios.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\AngleSharp.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Edm.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.OData.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.Data.Services.Client.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WebForms.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.ReportViewer.WinForms.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Microsoft.WindowsAzure.Storage.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\Newtonsoft.Json.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\OfficeDevPnP.Core.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Net.Http.Formatting.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Spatial.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\System.Web.Http.xml
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\de\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\es\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\fr\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\it\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ja\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ko\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\ru\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hans\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\bin\Release\zh-Hant\System.Spatial.resources.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csprojAssemblyReference.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAberturaPlantao.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacao.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnterior.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAcomodacaoAnteriorRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoFarmaciaRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlmoxarifadoInsumoRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmAlta.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroExames.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroInsumos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroLocalDeAcomodacao.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroMedicamentos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCadastroProcedimento.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCalendario.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarras.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasInsumos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCodigoDeBarrasMedicamentos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Medicamentos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaAcomodacao.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaCustos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaDesignacao.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaEnfermeiros.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaLocalAcomodacao.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaMedicos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaPaciente.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsultaTecnico.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Exames.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Insumos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmConsulta_Procedimento.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmCustosUsoRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmDesignacaoPaciente.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiro.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmEnfermeiroRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmExamesRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFarmacia.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedores.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFornecedoresRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionariosAdmRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmFuncionarios_Administrativos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmInsumosRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmLocalAcomodacaoFormulario.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipularPaciente.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicamentoRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicoRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmMedicos.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteAcompanhante.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteCadastroRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteEntrada.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacienteFiliacaoRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPacientesAcomodacoes.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrescricao_Medica.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmPrincipal.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmProntuario.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmSobre.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicodeEnfermagemRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTecnicoEnfermagem.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTratamentoRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmTriagem.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuario.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmUsuarioRelatorio.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao_Anterior.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerAcomodacao.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmVerificaAdm.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.Properties.Resources.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.frmManipulaUsuario.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.SplashScreen.resources
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.GenerateResource.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\RdlCompile.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\RdlCompile.compiled
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Apresentacao_Usuario.csproj.CopyComplete
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.exe
+E:\Visual Studio\Profissionais\HospitalarSistem\Apresentacao_Usuario\obj\Release\Sistema Hospitalar.pdb

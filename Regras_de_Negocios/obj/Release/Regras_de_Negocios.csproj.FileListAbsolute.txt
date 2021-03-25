@@ -1,0 +1,48 @@
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\bin\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\bin\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csproj.CopyComplete
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\bin\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\bin\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csproj.CopyComplete
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Regras_de_Negocios.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csprojAssemblyReference.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csproj.CopyComplete
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Regras_de_Negocios.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Regras_de_Negocios.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Objeto_de_Transferencia.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Conexao_SQLServer.dll.config
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\bin\Release\Objeto_de_Transferencia.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csprojAssemblyReference.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.csproj.CopyComplete
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Regras_de_Negocios\obj\Release\Regras_de_Negocios.pdb

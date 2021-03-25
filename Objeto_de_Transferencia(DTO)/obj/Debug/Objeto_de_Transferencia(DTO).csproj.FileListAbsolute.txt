@@ -1,0 +1,5 @@
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Debug\Objeto_de_Transferencia(DTO).dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Debug\Objeto_de_Transferencia(DTO).pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Debug\Objeto_de_Transferencia(DTO).dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Debug\Objeto_de_Transferencia(DTO).pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Debug\Objeto_de_Transferencia(DTO).csprojResolveAssemblyReference.cache

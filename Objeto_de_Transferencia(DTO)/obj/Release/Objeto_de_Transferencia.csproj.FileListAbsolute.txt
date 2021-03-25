@@ -1,0 +1,40 @@
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csproj.CopyComplete
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csproj.CopyComplete
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Objeto_de_Transferencia.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csprojAssemblyReference.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csproj.CopyComplete
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Objeto_de_Transferencia.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Objeto_de_Transferencia.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\bin\Release\Conexao_SQLServer.dll.config
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csprojAssemblyReference.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.csproj.CopyComplete
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Objeto_de_Transferencia(DTO)\obj\Release\Objeto_de_Transferencia.pdb

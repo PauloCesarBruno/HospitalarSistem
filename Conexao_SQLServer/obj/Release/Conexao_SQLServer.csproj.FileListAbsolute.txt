@@ -1,0 +1,34 @@
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll.config
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.dll
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.pdb
+F:\PROGRAMAÇÃO\Programas Visual Studio\C#\Programas em C#\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csprojResolveAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C#\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csprojAssemblyReference.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Programas Visual Studio\C Sharp\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csprojAssemblyReference.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll.config
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.dll
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll.config
+E:\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\bin\Release\Conexao_SQLServer.pdb
+E:\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csprojAssemblyReference.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.dll
+E:\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.pdb
+C:\Paulo Bruno\Visual Studio\Profissionais\HospitalarSistem\Conexao_SQLServer\obj\Release\Conexao_SQLServer.csprojAssemblyReference.cache
