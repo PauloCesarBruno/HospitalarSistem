@@ -798,8 +798,9 @@
             this.toolStripMenuItem33});
             this.impressoesAdminostrativasToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("impressoesAdminostrativasToolStripMenuItem.Image")));
             this.impressoesAdminostrativasToolStripMenuItem.Name = "impressoesAdminostrativasToolStripMenuItem";
-            this.impressoesAdminostrativasToolStripMenuItem.Size = new System.Drawing.Size(247, 22);
+            this.impressoesAdminostrativasToolStripMenuItem.Size = new System.Drawing.Size(251, 26);
             this.impressoesAdminostrativasToolStripMenuItem.Text = "Formulários &Adminostrativos";
+            this.impressoesAdminostrativasToolStripMenuItem.Click += new System.EventHandler(this.impressoesAdminostrativasToolStripMenuItem_Click);
             // 
             // toolStripMenuItem28
             // 
@@ -807,7 +808,7 @@
             this.toolStripMenuItem28.CheckState = System.Windows.Forms.CheckState.Checked;
             this.toolStripMenuItem28.Image = ((System.Drawing.Image)(resources.GetObject("toolStripMenuItem28.Image")));
             this.toolStripMenuItem28.Name = "toolStripMenuItem28";
-            this.toolStripMenuItem28.Size = new System.Drawing.Size(221, 22);
+            this.toolStripMenuItem28.Size = new System.Drawing.Size(225, 26);
             this.toolStripMenuItem28.Text = "&Usuários";
             this.toolStripMenuItem28.Click += new System.EventHandler(this.toolStripMenuItem28_Click);
             // 
@@ -817,7 +818,7 @@
             this.toolStripMenuItem30.CheckState = System.Windows.Forms.CheckState.Checked;
             this.toolStripMenuItem30.Image = ((System.Drawing.Image)(resources.GetObject("toolStripMenuItem30.Image")));
             this.toolStripMenuItem30.Name = "toolStripMenuItem30";
-            this.toolStripMenuItem30.Size = new System.Drawing.Size(221, 22);
+            this.toolStripMenuItem30.Size = new System.Drawing.Size(225, 26);
             this.toolStripMenuItem30.Text = "&Fucionários Administrativos";
             this.toolStripMenuItem30.Click += new System.EventHandler(this.toolStripMenuItem30_Click);
             // 
@@ -827,7 +828,7 @@
             this.toolStripMenuItem31.CheckState = System.Windows.Forms.CheckState.Checked;
             this.toolStripMenuItem31.Image = ((System.Drawing.Image)(resources.GetObject("toolStripMenuItem31.Image")));
             this.toolStripMenuItem31.Name = "toolStripMenuItem31";
-            this.toolStripMenuItem31.Size = new System.Drawing.Size(221, 22);
+            this.toolStripMenuItem31.Size = new System.Drawing.Size(225, 26);
             this.toolStripMenuItem31.Text = "F&ornecedores";
             this.toolStripMenuItem31.Click += new System.EventHandler(this.toolStripMenuItem31_Click);
             // 
@@ -837,7 +838,7 @@
             this.toolStripMenuItem32.CheckState = System.Windows.Forms.CheckState.Checked;
             this.toolStripMenuItem32.Image = ((System.Drawing.Image)(resources.GetObject("toolStripMenuItem32.Image")));
             this.toolStripMenuItem32.Name = "toolStripMenuItem32";
-            this.toolStripMenuItem32.Size = new System.Drawing.Size(221, 22);
+            this.toolStripMenuItem32.Size = new System.Drawing.Size(225, 26);
             this.toolStripMenuItem32.Text = "Farm&acia Estoque";
             this.toolStripMenuItem32.Click += new System.EventHandler(this.toolStripMenuItem32_Click);
             // 
@@ -847,14 +848,14 @@
             this.toolStripMenuItem33.CheckState = System.Windows.Forms.CheckState.Checked;
             this.toolStripMenuItem33.Image = ((System.Drawing.Image)(resources.GetObject("toolStripMenuItem33.Image")));
             this.toolStripMenuItem33.Name = "toolStripMenuItem33";
-            this.toolStripMenuItem33.Size = new System.Drawing.Size(221, 22);
+            this.toolStripMenuItem33.Size = new System.Drawing.Size(225, 26);
             this.toolStripMenuItem33.Text = "&Insumos Estoque";
             this.toolStripMenuItem33.Click += new System.EventHandler(this.toolStripMenuItem33_Click);
             // 
             // toolStripSeparator11
             // 
             this.toolStripSeparator11.Name = "toolStripSeparator11";
-            this.toolStripSeparator11.Size = new System.Drawing.Size(244, 6);
+            this.toolStripSeparator11.Size = new System.Drawing.Size(248, 6);
             // 
             // impressToolStripMenuItem
             // 
@@ -870,7 +871,7 @@
             this.toolStripMenuItem25});
             this.impressToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("impressToolStripMenuItem.Image")));
             this.impressToolStripMenuItem.Name = "impressToolStripMenuItem";
-            this.impressToolStripMenuItem.Size = new System.Drawing.Size(247, 22);
+            this.impressToolStripMenuItem.Size = new System.Drawing.Size(251, 26);
             this.impressToolStripMenuItem.Text = "Formulários de &Rotina Hospitalar";
             // 
             // toolStripMenuItem14

@@ -1031,5 +1031,10 @@ namespace Apresentacao_Usuario
             MessageBox.Show("O Sistema Irá REINICIAR para Login do novo Usuário.", "Sistema Hospitalar", MessageBoxButtons.OK, MessageBoxIcon.Information);
             Application.Restart();
         }
+
+        private void impressoesAdminostrativasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 } 
