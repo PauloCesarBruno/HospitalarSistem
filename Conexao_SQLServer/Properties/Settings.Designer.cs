@@ -26,8 +26,7 @@ namespace Conexao_SQLServer.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-K63Q18Q;Initial Catalog=Hospital;User ID=sa;Password=Paradoxo" +
-            "22")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=HOME;Initial Catalog=Hospital;User ID=sa;Password=Paradoxo22")]
         public string String {
             get {
                 return ((string)(this["String"]));
