@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 //
 using System.Data;
-using System.Data.SqlClient
+using System.Data.SqlClient;
 using Conexao_SQLServer.Properties;
 
 namespace Conexao_SQLServer
@@ -13,7 +13,7 @@ namespace Conexao_SQLServer
     public class Conect
     {
         public String sql = (Settings.Default.String);
-
+                                                                
         public SqlConnection Conexao()
         {
             return new SqlConnection(sql);
