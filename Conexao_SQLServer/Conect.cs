@@ -3,7 +3,7 @@ using System.Data;
 using System.Data.SqlClient;
 using Conexao_SQLServer.Properties;
 
-// Classe DAL.
+// Classe DAL:
 
 namespace Conexao_SQLServer
 {
