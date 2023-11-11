@@ -233,7 +233,7 @@ namespace Apresentacao_Usuario
             MessageBox.Show("Entre em contato com o C.P.D. ou Administrador do Sistema.", "SISTEMA HOSPITALAR", MessageBoxButtons.OK, MessageBoxIcon.Information);
             txtUsuario.Text = String.Empty;
             txtSenha.Text = String.Empty;
-            //txtNome.Text = String.Empty;
+            // txtNome.Text = String.Empty;
             txtNome.Focus();
         }
 
