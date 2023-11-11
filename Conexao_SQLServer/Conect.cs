@@ -3,7 +3,6 @@ using System.Data;
 using System.Data.SqlClient;
 using Conexao_SQLServer.Properties;
 
-
 namespace Conexao_SQLServer
 {
     public class Conect
